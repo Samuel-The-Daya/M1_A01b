@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "HelperTemplate\\x64\\Debug\\HelperTemplate.obj",
+            "outputs": [
+                "HelperTemplate\\x64\\Debug\\HelperTemplate.cpp.obj.dt.module.json",
+                "HelperTemplate\\x64\\Debug\\HelperTemplate.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

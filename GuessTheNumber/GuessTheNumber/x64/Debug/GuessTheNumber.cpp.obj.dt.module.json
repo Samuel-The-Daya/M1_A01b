@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "GuessTheNumber\\x64\\Debug\\GuessTheNumber.obj",
+            "outputs": [
+                "GuessTheNumber\\x64\\Debug\\GuessTheNumber.cpp.obj.dt.module.json",
+                "GuessTheNumber\\x64\\Debug\\GuessTheNumber.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

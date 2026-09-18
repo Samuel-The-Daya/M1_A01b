@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\HelperTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{411E19C6-60F1-4B06-8518-17D0E74E24F8}|HelperTemplate.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\HelperTemplate\\HelperTemplate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{411E19C6-60F1-4B06-8518-17D0E74E24F8}|HelperTemplate.vcxproj|solutionrelative:HelperTemplate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelperTemplate.cpp",
+              "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\HelperTemplate\\HelperTemplate.cpp",
+              "RelativeDocumentMoniker": "HelperTemplate.cpp",
+              "ToolTip": "C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\HelperTemplate\\HelperTemplate.cpp",
+              "RelativeToolTip": "HelperTemplate.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-18T19:28:29.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
