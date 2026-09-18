@@ -3,9 +3,28 @@
 
 #include <iostream>
 
+#include "TemplateFunctions.hpp"
+
 int main()
 {
     std::cout << "Hello World!\n";
+
+    std::cout << "Test: inRangeInclusive(3, 1, 10);\n";
+
+    std::cout << inRangeInclusive(3, 1, 10) << "\n";
+
+    std::cout << "Test: inRangeInclusive(2.1, 5.1, 11.10001);\n";
+
+    std::cout << inRangeInclusive(2.1, 5.1, 11.10001) << "\n";
+
+    std::cout << "Test: clamp(3, 1, 10);\n";
+
+    std::cout << clamp(3, 1, 10) << "\n";
+
+    std::cout << "Test: clamp(2.1, 5.1, 11.0);\n";
+
+    std::cout << clamp(2.1, 5.1, 11.0) << "\n";
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
