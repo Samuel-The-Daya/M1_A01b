@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "TUIStatsBar\\x64\\Debug\\TemplateFunctions.obj",
+            "outputs": [
+                "TUIStatsBar\\x64\\Debug\\TemplateFunctions.hpp.obj.dt.module.json",
+                "TUIStatsBar\\x64\\Debug\\TemplateFunctions.hpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

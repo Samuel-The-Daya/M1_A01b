@@ -11,19 +11,19 @@ int main()
 
     std::cout << "Test: inRangeInclusive(3, 1, 10);\n";
 
-    std::cout << inRangeInclusive(3, 1, 10) << "\n";
+    std::cout << tf::inRangeInclusive(3, 1, 10) << "\n";
 
     std::cout << "Test: inRangeInclusive(2.1, 5.1, 11.10001);\n";
 
-    std::cout << inRangeInclusive(2.1, 5.1, 11.10001) << "\n";
+    std::cout << tf::inRangeInclusive(2.1, 5.1, 11.10001) << "\n";
 
     std::cout << "Test: clamp(3, 1, 10);\n";
 
-    std::cout << clamp(3, 1, 10) << "\n";
+    std::cout << tf::clamp(3, 1, 10) << "\n";
 
     std::cout << "Test: clamp(2.1, 5.1, 11.0);\n";
 
-    std::cout << clamp(2.1, 5.1, 11.0) << "\n";
+    std::cout << tf::clamp(2.1, 5.1, 11.0) << "\n";
 
 }
 

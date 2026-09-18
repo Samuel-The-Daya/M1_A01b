@@ -2,16 +2,20 @@
 
 //Template Functions
 
-template<typename T>
-bool inRangeInclusive(T value, T low, T high) {
+namespace tf {
 
-	return value >= low && value <= high;
+	template<typename T>
+	bool inRangeInclusive(T value, T low, T high) {
 
-}
+		return value >= low && value <= high;
 
-template<typename T>
-T clamp(T value, T low, T high) {
+	}
 
-	return (value > high) ? high : (value < low) ? low : value;
+	template<typename T>
+	T clamp(T value, T low, T high) {
+
+		return (value > high) ? high : (value < low) ? low : value;
+
+	}
 
 }
