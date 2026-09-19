@@ -1,19 +1,19 @@
 #include <string>
 #include <iostream>
 
-//#include "statsBar.hpp"
+#include "statsBar.hpp"
 #include "TemplateFunctions.hpp"
 #include <format>
 
 void renderStat(const std::string& label, int current, int max) {
 
-
+    renderStat(label, current, max, 20, '#', '_', true, false);
 
 }
 
 void renderStat(const std::string& label, double percent) {
 
-
+    renderStat(label, percent * 100, 10000, 20, '#', '-', false, true);
 
 }
 
@@ -25,12 +25,9 @@ void renderStat(const std::string& label, int current, int max,
 
     current = tf::clamp(current, 0, max);
 
-
-    int amountFull{ (int)round(((double)current / (double)max) * width) };
-
     for (auto i = 1; i < width + 1; i++) {
 
-        if (tf::inRangeInclusive(i, 0, amountFull)) {
+        if (tf::inRangeInclusive(i, 0, (int)round(((double)current / (double)max) * width))) {
             bar += fill;
         }
         else {
@@ -39,15 +36,13 @@ void renderStat(const std::string& label, int current, int max,
 
     }
 
-    bar.append("] ");
+    bar.append("]");
 
-    if (showRatio) bar.append(current + "/" + max);
+    if (showRatio) bar += " " + std::to_string(current) + "/" + std::to_string(max);
 
-    double percent{ round(((double)current / (double)max) * 100) };
-
-    if (showPercentage) bar += " " + std::format("{:.1f}", percent) + "%";
+    if (showPercentage) bar += " " + std::format("{:.1f}", (double)current / (double)max * 100) + "%";
 
 
-    std::cout << label << " " << bar;
+    std::cout << label << bar;
 
 }

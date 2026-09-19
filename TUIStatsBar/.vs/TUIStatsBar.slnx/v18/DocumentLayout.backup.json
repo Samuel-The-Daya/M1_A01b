@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\",
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\statsBar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\statsBar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|solutionrelative:statsBar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TUIStatsBar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TUIStatsBar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|solutionrelative:TUIStatsBar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TemplateFunctions.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TemplateFunctions.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|solutionrelative:TemplateFunctions.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\statsBar.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\statsBar.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|solutionrelative:statsBar.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -32,37 +32,35 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "statsBar.hpp",
-              "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\statsBar.hpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\statsBar.hpp",
               "RelativeDocumentMoniker": "statsBar.hpp",
-              "ToolTip": "C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\statsBar.hpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\statsBar.hpp",
               "RelativeToolTip": "statsBar.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-09-18T20:34:58.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-18T20:34:58.579Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TemplateFunctions.hpp",
-              "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TemplateFunctions.hpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TemplateFunctions.hpp",
               "RelativeDocumentMoniker": "TemplateFunctions.hpp",
-              "ToolTip": "C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TemplateFunctions.hpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TemplateFunctions.hpp",
               "RelativeToolTip": "TemplateFunctions.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-09-18T20:33:52.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-18T20:33:52.891Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "statsBar.cpp",
-              "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\statsBar.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\statsBar.cpp",
               "RelativeDocumentMoniker": "statsBar.cpp",
-              "ToolTip": "C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\statsBar.cpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\statsBar.cpp",
               "RelativeToolTip": "statsBar.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-18T20:05:28.31Z",
               "EditorCaption": ""
@@ -71,14 +69,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TUIStatsBar.cpp",
-              "DocumentMoniker": "C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TUIStatsBar.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TUIStatsBar.cpp",
               "RelativeDocumentMoniker": "TUIStatsBar.cpp",
-              "ToolTip": "C:\\Users\\jdaya\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TUIStatsBar.cpp",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TUIStatsBar.cpp",
               "RelativeToolTip": "TUIStatsBar.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-18T19:56:12.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-18T19:56:12.34Z"
             }
           ]
         }

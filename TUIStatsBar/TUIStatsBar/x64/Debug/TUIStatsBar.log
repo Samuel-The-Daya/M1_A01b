@@ -1,2 +1,3 @@
 ﻿  statsBar.cpp
-  TUIStatsBar.vcxproj -> C:\Users\jdaya\Documents\GitHub\M1_A01b\TUIStatsBar\x64\Debug\TUIStatsBar.exe
+C:\Users\Owner\Documents\GitHub\M1_A01b\TUIStatsBar\statsBar.cpp(16,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  TUIStatsBar.vcxproj -> C:\Users\Owner\Documents\GitHub\M1_A01b\TUIStatsBar\x64\Debug\TUIStatsBar.exe
