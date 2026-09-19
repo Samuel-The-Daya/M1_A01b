@@ -25,6 +25,7 @@ bool doesStringInclude(std::string_view str, std::vector<std::string> strVector)
     return false;
 }
 
+// Random integer function stolen from reference link
 int randomInteger(int min, int max) {
     const int range = max - min + 1;
     return rand() % range + min;

@@ -11,19 +11,19 @@
 int main()
 {
 
-    bool playAgain;
-
+    // Gameplay Loop
+    // Loop the game as long as player inputs Y
     do {
 
         std::cout << "Welcome To Samuel's Guessing Game\n\n\n\n"; 
         
+        // Loop for setting up the game
         while (!setupGame());
 
+        // Loop for playing the game
         while (!guessTheNumber(fetchNumber("Make a guess!\n\n")));
 
-        playAgain = fetchYesOrNo("\nPlay Again? (Y/N)\n\n");
-
-    } while (playAgain);
+    } while (fetchYesOrNo("\nPlay Again? (Y/N)\n\n"));
 
     std::cout << "\nBye Bye!!!!\n\n";
 

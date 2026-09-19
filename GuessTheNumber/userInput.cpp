@@ -6,7 +6,12 @@
 #include "utilities.hpp"
 
 
-// Grabs user input
+/// <summary>
+/// Grabs input from player & prints prompt.
+/// Checks for integer
+/// </summary>
+/// <param name=prompt></param>
+/// <returns>int</returns>
 int fetchNumber(std::string prompt) {
 
     do {
@@ -32,7 +37,12 @@ int fetchNumber(std::string prompt) {
 
 }
 
-// Grabs user input
+/// <summary>
+/// Grabs input from player & prints prompt
+/// Checks for Y or N
+/// </summary>
+/// <param name=prompt></param>
+/// <returns>bool</returns>
 bool fetchYesOrNo(std::string prompt) {
 
     // Clear remaining queue of inputs
@@ -49,12 +59,16 @@ bool fetchYesOrNo(std::string prompt) {
         // Displays the string prompt
         std::cout << prompt;
 
+        // Grab input
         std::getline(std::cin, input);
 
+        // Checks for spaces
         if (!doesStringInclude(input, " ")) {
             
+            // If "Y" return true for yes
             if (input == "y" || input == "Y") return true;
 
+            // If "N" return false for no
             if (input == "n" || input == "N") return false;
 
         }

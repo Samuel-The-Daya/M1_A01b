@@ -1,7 +1,7 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\jdaya\\documents\\github\\m1_a01b\\guessthenumber\\guessergame.cpp",
+        "Source": "c:\\users\\owner\\documents\\github\\m1_a01b\\guessthenumber\\guessergame.cpp",
         "ProvidedModule": "",
         "Includes": [
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\iostream",
@@ -129,11 +129,11 @@
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\locale.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\ostream",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\string",
-            "c:\\users\\jdaya\\documents\\github\\m1_a01b\\guessthenumber\\guessergame.hpp",
-            "c:\\users\\jdaya\\documents\\github\\m1_a01b\\guessthenumber\\utilities.hpp",
+            "c:\\users\\owner\\documents\\github\\m1_a01b\\guessthenumber\\guessergame.hpp",
+            "c:\\users\\owner\\documents\\github\\m1_a01b\\guessthenumber\\utilities.hpp",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vector",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_bit_utils.hpp",
-            "c:\\users\\jdaya\\documents\\github\\m1_a01b\\guessthenumber\\userinput.hpp"
+            "c:\\users\\owner\\documents\\github\\m1_a01b\\guessthenumber\\userinput.hpp"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

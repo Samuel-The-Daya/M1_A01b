@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|solutionrelative:TUIStatsBar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TemplateFunctions.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|solutionrelative:TemplateFunctions.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\statsBar.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|solutionrelative:statsBar.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TemplateFunctions.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F47EF62B-8745-48EE-A094-51C6BF84AF26}|TUIStatsBar.vcxproj|solutionrelative:TemplateFunctions.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,27 +30,29 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "statsBar.hpp",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\statsBar.hpp",
               "RelativeDocumentMoniker": "statsBar.hpp",
               "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\statsBar.hpp",
               "RelativeToolTip": "statsBar.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-09-18T20:34:58.579Z"
+              "WhenOpened": "2026-09-18T20:34:58.579Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TemplateFunctions.hpp",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TemplateFunctions.hpp",
               "RelativeDocumentMoniker": "TemplateFunctions.hpp",
               "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TemplateFunctions.hpp",
               "RelativeToolTip": "TemplateFunctions.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-09-18T20:33:52.891Z"
+              "WhenOpened": "2026-09-18T20:33:52.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,7 +62,7 @@
               "RelativeDocumentMoniker": "statsBar.cpp",
               "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\statsBar.cpp",
               "RelativeToolTip": "statsBar.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-18T20:05:28.31Z",
               "EditorCaption": ""
@@ -73,9 +75,10 @@
               "RelativeDocumentMoniker": "TUIStatsBar.cpp",
               "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\TUIStatsBar\\TUIStatsBar.cpp",
               "RelativeToolTip": "TUIStatsBar.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-18T19:56:12.34Z"
+              "WhenOpened": "2026-09-18T19:56:12.34Z",
+              "EditorCaption": ""
             }
           ]
         }
