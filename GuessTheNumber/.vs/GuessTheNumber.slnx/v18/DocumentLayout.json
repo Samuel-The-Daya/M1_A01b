@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\GuessTheNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|solutionrelative:GuessTheNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\USERINPUT.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|solutionrelative:USERINPUT.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\guesserGame.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|solutionrelative:guesserGame.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\guesserGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|solutionrelative:guesserGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\utilities.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|solutionrelative:utilities.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\USERINPUT.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|solutionrelative:USERINPUT.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\GuessTheNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|solutionrelative:GuessTheNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\userInput.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -29,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\utilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|solutionrelative:utilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\utilities.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|solutionrelative:utilities.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\guesserGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33909DC9-A68F-44FE-A5B3-56BCF283BDEB}|GuessTheNumber.vcxproj|solutionrelative:guesserGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "userInput.hpp",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\userInput.hpp",
               "RelativeDocumentMoniker": "userInput.hpp",
               "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\userInput.hpp",
               "RelativeToolTip": "userInput.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-09-15T19:13:43.415Z",
               "EditorCaption": ""
@@ -68,64 +68,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "guesserGame.cpp",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\guesserGame.cpp",
               "RelativeDocumentMoniker": "guesserGame.cpp",
-              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\guesserGame.cpp*",
-              "RelativeToolTip": "guesserGame.cpp*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\guesserGame.cpp",
+              "RelativeToolTip": "guesserGame.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEQAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-15T16:02:54.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "utilities.hpp",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\utilities.hpp",
               "RelativeDocumentMoniker": "utilities.hpp",
               "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\utilities.hpp",
               "RelativeToolTip": "utilities.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-09-15T15:47:51.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "utilities.cpp",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\utilities.cpp",
               "RelativeDocumentMoniker": "utilities.cpp",
               "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\utilities.cpp",
               "RelativeToolTip": "utilities.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-15T15:47:22.186Z"
+              "WhenOpened": "2026-09-15T15:47:22.186Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "userInput.cpp",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\userInput.cpp",
               "RelativeDocumentMoniker": "userInput.cpp",
               "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\userInput.cpp",
               "RelativeToolTip": "userInput.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-15T14:54:08.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GuessTheNumber.cpp",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\GuessTheNumber.cpp",
               "RelativeDocumentMoniker": "GuessTheNumber.cpp",
               "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\M1_A01b\\GuessTheNumber\\GuessTheNumber.cpp",
               "RelativeToolTip": "GuessTheNumber.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-15T14:45:56.034Z",
               "EditorCaption": ""
